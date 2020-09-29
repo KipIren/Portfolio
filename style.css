@@ -204,7 +204,7 @@ p{
 
 /*Hero Section*/
 #hero{
-    background-image: url("./imgs/pexels-startup-stock-photos-7112.jpg");
+    background-image: url("imgs/background-img.jpg");
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -290,7 +290,7 @@ p{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image:url("./imgs/pexels-pixabay-373076.jpg");
+    background-image:url("imgs/skills-img.jpg");
     background-size: cover;
     margin: 10px 5%;
     position: relative;
