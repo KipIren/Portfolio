@@ -198,10 +198,6 @@ p{
 #header .hamburger.active .bar::after {
     top: 0;
 }
-
-
-
-
 /*Hero Section*/
 #hero{
     background-image: url("imgs/background-img.jpg");
@@ -327,6 +323,13 @@ p{
 }
 #projects .projects-header h1 {
     margin-bottom: 50px;
+}
+#projects .project-name{
+    cursor: pointer;
+    transition: all .4s;
+}
+#projects .project-name:hover{
+    color: crimson;
 }
 #projects .all-projects {
     display: flex;
